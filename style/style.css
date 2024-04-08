@@ -1,0 +1,15 @@
+.nombre {
+    font-family: "Honk", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "MORF" 39,
+        "SHLN" 50;
+}
+
+.gloriaHallelujah {
+    font-family: "Gloria Hallelujah", cursive;
+    font-weight: 600;
+    font-style: normal;
+}
